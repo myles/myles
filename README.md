@@ -4,7 +4,7 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### Now
 
--   :telescope: I'm currenlt working on **IndieWeb website**
+-   :telescope: I'm currenlt working on a **IndieWeb website**
 -   :seedling: I’m currently learning **Go**
 -   :dancers: I'm looking to collaborate on **data projects**
 -   :joystick: I'm currently playing **Animal Crossing**
