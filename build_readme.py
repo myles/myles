@@ -22,7 +22,7 @@ def get_blog_posts() -> List[feedparser.FeedParserDict]:
     """
     Get my blog posts.
     """
-    feed = feedparser.parse('https://mylesbraithwaite.com/feed/')
+    feed = feedparser.parse("https://mylesbraithwaite.com/feed/")
     return feed.entries
 
 
@@ -35,10 +35,10 @@ def transform_blog_post(post: feedparser.FeedParserDict) -> PostDict:
     )
 
     return {
-        'url': post.link,
-        'emoji': '📝 ',
-        'content': post.title,
-        'published': published,
+        "url": post.link,
+        "emoji": "📝 ",
+        "content": post.title,
+        "published": published,
     }
 
 
@@ -87,7 +87,9 @@ def format_post(post: PostDict) -> str:
     )
 
 
-def replace_chunk(content: str, marker: Literal['MICROBLOG_POSTS', 'BLOG_POSTS'], chunk: str) -> str:
+def replace_chunk(
+    content: str, marker: Literal["MICROBLOG_POSTS", "BLOG_POSTS"], chunk: str
+) -> str:
     """
     Replace the content with chunks between the markers.
 
@@ -113,7 +115,7 @@ def build():
         blog_posts.append(format_post(post))
 
     readme_content = replace_chunk(
-        readme_content, marker='BLOG_POSTS', chunk="\n".join(blog_posts)
+        readme_content, marker="BLOG_POSTS", chunk="\n".join(blog_posts)
     )
 
     microblog_posts = []
@@ -123,7 +125,7 @@ def build():
         microblog_posts.append(format_post(post))
 
     readme_content = replace_chunk(
-        readme_content, marker='MICROBLOG_POSTS', chunk="\n".join(microblog_posts)
+        readme_content, marker="MICROBLOG_POSTS", chunk="\n".join(microblog_posts)
     )
 
     with README_PATH.open("w") as file_obj:
