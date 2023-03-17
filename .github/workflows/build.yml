@@ -3,7 +3,7 @@ name: Build README
 "on":
   push:
     branches:
-      - 'main'
+      - 'master'
   schedule:
     - cron: "0 8 * * *" # Every day at 8am
   workflow_dispatch:
