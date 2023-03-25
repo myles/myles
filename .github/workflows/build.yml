@@ -43,13 +43,11 @@ jobs:
 
       - id: install-dependencies
         name: "Install dependencies 👨🏻‍💻"
-        run: |
-          poetry install
+        run: make setup
 
       - id: build-readme
         name: "Build README 📝"
-        run: |
-          poetry run build-readme
+        run: make build
 
       - id: commit-and-push
         name: "Commit and push changes if anything changed 🚀"
