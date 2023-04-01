@@ -4,6 +4,7 @@ from typing import Any, Dict, List, Literal, TypedDict
 from urllib.parse import parse_qs, urlencode, urlparse
 
 import feedparser
+import pytz
 import requests
 from pyquery import PyQuery
 
@@ -90,8 +91,19 @@ def format_post(post: PostDict) -> str:
     )
 
 
+def format_last_updated_at() -> str:
+    """
+    Format the last updated at timestamp.
+    """
+    tz = pytz.timezone("America/Toronto")
+    now_in_tz = tz.localize(datetime.datetime.utcnow())
+    return f'Last updated on: {now_in_tz.strftime("%-d %B %Y")}'
+
+
 def replace_chunk(
-    content: str, marker: Literal["MICROBLOG_POSTS", "BLOG_POSTS"], chunk: str
+    content: str,
+    marker: Literal["MICROBLOG_POSTS", "BLOG_POSTS", "LAST_UPDATED_AT"],
+    chunk: str,
 ) -> str:
     """
     Replace the content with chunks between the markers.
