@@ -4,16 +4,16 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### Now
 
--   :telescope: I'm currently working on a **IndieWeb website**
--   :seedling: I’m currently learning **Rust**
--   :dancers: I'm looking to collaborate on **data projects**
--   :joystick: I'm currently playing **Animal Crossing**
+-   🔭 I'm currently working on a **IndieWeb website**
+-   🌱 I’m currently learning **Rust**
+-   👯 I'm looking to collaborate on **data projects**
+-   🕹️ I'm currently playing **Animal Crossing**
 
 #### Quick Facts
 
--   :smile: My preferred gender pronouns are **[he/him/his](https://www.mypronouns.org/he-him)**
--   :clock3: I am in the **[eastern timezone](https://time.is/Toronto)**
--   :mailbox: How to reach me at **[me@mylesbraithwaite.com](mailto:me@mylesbraithwaite.com)**
+-   😆 My preferred gender pronouns are **[he/him/his](https://www.mypronouns.org/he-him)**
+-   🕒 I am in the **[eastern timezone](https://time.is/Toronto)**
+-   📫 How to reach me at **[me@mylesbraithwaite.com](mailto:me@mylesbraithwaite.com)**
 
 <!--
 -   🤔 I’m looking for help with ...
