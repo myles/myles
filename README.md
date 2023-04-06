@@ -27,7 +27,7 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 <!-- END: BLOG_POSTS -->
 
 
-#### [myles.social](https://myles.soical/) Posts
+#### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
 -   📷 [Playing around with Adobe Firefly’s beta.](https://myles.social/2023/03/27/playing-around-with.html) — 27 Mar 2023, 5:06 PM
 -   📷 [Morning walk was so cold and so wet.](https://myles.social/2023/03/25/morning-walk-was.html) — 25 Mar 2023, 1:55 PM
