@@ -4,10 +4,10 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### Now
 
--   🔭 I'm currently working on a **IndieWeb website**
--   🌱 I’m currently learning **Rust**
+-   🔭 I'm currently working on a **IndieWeb website** and **dogsheep utilities**
+-   🌱 I’m currently learning **Go**
 -   👯 I'm looking to collaborate on **data projects**
--   🕹️ I'm currently playing **Animal Crossing**
+-   🕹️ I'm currently playing **The Legend of Zelda: Tears of the Kingdom**
 
 #### Quick Facts
 
@@ -40,5 +40,5 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 25 April 2023
+Last updated on: 23 May 2023
 <!-- END: LAST_UPDATED_AT -->
