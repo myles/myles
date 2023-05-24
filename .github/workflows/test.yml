@@ -1,12 +1,9 @@
-name: Build README
+name: Test
 
 "on":
-  push:
+  pull_request:
     branches:
       - 'main'
-  schedule:
-    - cron: "0 8 * * *" # Every day at 8am
-  workflow_dispatch:
 
 jobs:
   build:
@@ -45,16 +42,18 @@ jobs:
         name: "Install dependencies 👨🏻‍💻"
         run: make setup
 
-      - id: build-readme
-        name: "Build README 📝"
-        run: make build
+      - id: poetry-lock
+        name: "Run poetry lock 📌"
+        run: poetry lock --check
 
-      - id: commit-and-push
-        name: "Commit and push changes if anything changed 🚀"
-        run: |-
-          git config user.name "README Builder"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A
-          timestamp=$(date -u)
-          git commit -m ":timer_clock: Updated README from the CI" || exit 0
-          git push
+      - id: run-test
+        name: "Run tests 🧪"
+        run: make test
+
+      - id: run-linters
+        name: Run linters 🚨
+        run: make lint
+
+      - id: run-typing
+        name: Run mypy 🏷
+        run: make mypy

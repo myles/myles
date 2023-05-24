@@ -1,5 +1,5 @@
 .PHONY: all
-all: clean setup test lint build
+all: clean setup test lint mypy build
 
 .PHONY: build
 build: README.md
@@ -25,6 +25,10 @@ lintfix:
 	poetry run black .
 	poetry run isort .
 	poetry run ruff check . --fix
+
+.PHONY: mypy
+mypy:
+	poetry run mypy build_readme/
 
 .PHONY: clean
 clean:
