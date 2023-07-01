@@ -30,15 +30,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [Just finished the season finale of Silo. The entire show is definitely worth watching.](https://myles.social/2023/06/30/just-finished-the.html) — 30 Jun 2023, 1:05 PM
 -   📷 [Playing around with Photoshop’s Generative Fill feature. This was two similar photos I took at Ontario Place this winter.](https://myles.social/2023/05/30/playing-around-with.html) — 30 May 2023, 9:26 PM
 -   📷 [Toronto’s cityscape at sunset.](https://myles.social/2023/04/24/torontos-cityscape-at.html) — 24 Apr 2023, 9:11 PM
 -   [It’s criminal we have to work on the first warm day of the year.](https://myles.social/2023/04/12/its-criminal-we.html) — 12 Apr 2023, 3:23 PM
 -   📷 [Playing around with Adobe Firefly’s beta.](https://myles.social/2023/03/27/playing-around-with.html) — 27 Mar 2023, 5:06 PM
--   📷 [Morning walk was so cold and so wet.](https://myles.social/2023/03/25/morning-walk-was.html) — 25 Mar 2023, 1:55 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 31 May 2023
+Last updated on: 1 July 2023
 <!-- END: LAST_UPDATED_AT -->
