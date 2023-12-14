@@ -30,15 +30,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
--   📷 [Don Valley is always pretty in the late summer/early autumn.](https://myles.social/2023/09/20/don-valley-is.html) — 20 Sep 2023, 6:37 PM
--   [My favourite comic book series, Fables, has been added to the public domain by Bill Willingham, its author.](https://myles.social/2023/09/14/my-favourite-comic.html) — 14 Sep 2023, 6:16 PM
--   [Polaroid’s new instant camera, the I-2, looks incredible. I hope this resurgence of instant cameras continues. Jeremy Gray’s review for PetaPixel.](https://myles.social/2023/09/07/polaroids-new-instant.html) — 7 Sep 2023, 1:06 PM
--   📷 [Street Art of Doug Ford in Graffiti Alley](https://myles.social/2023/09/04/street-art-of.html) — 4 Sep 2023, 10:51 AM
--   📷 [Morning-Glory](https://myles.social/2023/08/17/morningglory.html) — 17 Aug 2023, 1:30 PM
+-   [Made a small Django function to back-port update_or_create from Django 5.0, specifically adding create_defaults to the create operations. https://gist.github.com/myles/a6905f94e4e9955f02fea2554db982a7](https://myles.social/2023/12/13/made-a-small.html) — 13 Dec 2023, 5:56 PM
+-   📷 [Don Valley is always pretty in the late summer/early autumn.](https://myles.social/2023/09/20/don-valley-is.html) — 20 Sep 2023, 5:37 PM
+-   [My favourite comic book series, Fables, has been added to the public domain by Bill Willingham, its author.](https://myles.social/2023/09/14/my-favourite-comic.html) — 14 Sep 2023, 5:16 PM
+-   [Polaroid’s new instant camera, the I-2, looks incredible. I hope this resurgence of instant cameras continues. Jeremy Gray’s review for PetaPixel.](https://myles.social/2023/09/07/polaroids-new-instant.html) — 7 Sep 2023, 12:06 PM
+-   📷 [Street Art of Doug Ford in Graffiti Alley](https://myles.social/2023/09/04/street-art-of.html) — 4 Sep 2023, 9:51 AM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 1 October 2023
+Last updated on: 14 December 2023
 <!-- END: LAST_UPDATED_AT -->
