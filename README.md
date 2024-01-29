@@ -30,11 +30,11 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [🎉 Happy random tests that assume February is 28 days to all that celebrate!](https://myles.social/2024/01/29/happy-random-tests.html) — 29 Jan 2024, 2:30 PM
 -   📷 [Mountains at the bottom of Lake Louise](https://myles.social/2024/01/28/mountains-at-the.html) — 28 Jan 2024, 11:55 PM
 -   📷 [First PyDataTO meetup of the year.](https://myles.social/2024/01/10/first-pydatato-meetup.html) — 10 Jan 2024, 6:30 PM
 -   [Made a small Django function to back-port update_or_create from Django 5.0, specifically adding create_defaults to the create operations. https://gist.github.com/myles/a6905f94e4e9955f02fea2554db982a7](https://myles.social/2023/12/13/made-a-small.html) — 13 Dec 2023, 5:56 PM
 -   📷 [Don Valley is always pretty in the late summer/early autumn.](https://myles.social/2023/09/20/don-valley-is.html) — 20 Sep 2023, 5:37 PM
--   [My favourite comic book series, Fables, has been added to the public domain by Bill Willingham, its author.](https://myles.social/2023/09/14/my-favourite-comic.html) — 14 Sep 2023, 5:16 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
