@@ -5,7 +5,7 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 #### Now
 
 -   🔭 I'm currently working on a **IndieWeb website** and **dogsheep utilities**
--   🌱 I’m currently learning **Go**
+-   🌱 I’m currently learning **Rust** and **Microservices**
 -   👯 I'm looking to collaborate on **data projects**
 -   🕹️ I'm currently playing **Stardew Valley**
 
@@ -40,5 +40,5 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 14 February 2024
+Last updated on: 15 February 2024
 <!-- END: LAST_UPDATED_AT -->
