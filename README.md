@@ -30,15 +30,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   📷 [I only want to be in conversations that support my business goals.](https://myles.social/2024/02/23/i-only-want.html) — 23 Feb 2024, 9:21 AM
 -   📷 [Black cat.](https://myles.social/2024/02/21/black-cat.html) — 21 Feb 2024, 10:40 PM
 -   📷 [Toronto Landmark](https://myles.social/2024/02/13/toronto-landmark.html) — 13 Feb 2024, 11:07 PM
 -   📷 [Last day vibes.](https://myles.social/2024/02/09/last-day-vibes.html) — 9 Feb 2024, 5:01 PM
 -   [Just released version v0.2.1 of mastodon-to-sqlite!](https://myles.social/2024/02/05/just-released-a.html) — 5 Feb 2024, 10:05 PM
--   [🎉 Happy random tests that assume February is 28 days to all that celebrate!](https://myles.social/2024/01/29/happy-random-tests.html) — 29 Jan 2024, 2:30 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 22 February 2024
+Last updated on: 23 February 2024
 <!-- END: LAST_UPDATED_AT -->
