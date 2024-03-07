@@ -30,15 +30,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   📷 [First signs of spring.](https://myles.social/2024/03/07/first-signs-of.html) — 7 Mar 2024, 11:39 AM
 -   📷 [Mommy’s Little Monster from Mom’s Basement in Toronto.](https://myles.social/2024/03/02/mommys-little-monster.html) — 2 Mar 2024, 4:15 PM
 -   📷 [The only thing left standing was the elevator.](https://myles.social/2024/02/27/the-only-thing.html) — 27 Feb 2024, 9:43 AM
 -   📷 [I only want to be in conversations that support my business goals.](https://myles.social/2024/02/23/i-only-want.html) — 23 Feb 2024, 9:21 AM
 -   📷 [Black cat.](https://myles.social/2024/02/21/black-cat.html) — 21 Feb 2024, 10:40 PM
--   📷 [Toronto Landmark](https://myles.social/2024/02/13/toronto-landmark.html) — 13 Feb 2024, 11:07 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 3 March 2024
+Last updated on: 7 March 2024
 <!-- END: LAST_UPDATED_AT -->
