@@ -31,15 +31,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   📷 [Objects found in the park.](https://myles.social/2024/08/10/objects-found-in.html) — 10 Aug 2024, 5:40 PM
 -   📷 [](https://myles.social/2024/07/28/115115.html) — 28 Jul 2024, 11:51 AM
 -   [I mapped out Ledbury Park on OpenStreetMaps.](https://myles.social/2024/07/11/i-setup-ledbury.html) — 11 Jul 2024, 8:56 PM
 -   📷 [Purple flowers.](https://myles.social/2024/06/22/purple-flowers.html) — 22 Jun 2024, 4:45 PM
 -   [The LLM that cost billions of dollars and the energy output of a midsize country to train isn’t that great, so they gave it a cute and flirty voice. Most Silicon Valley thing ever.](https://myles.social/2024/05/14/the-llm-that.html) — 14 May 2024, 9:13 AM
--   📷 [Trilliums](https://myles.social/2024/05/04/trilliums.html) — 4 May 2024, 5:12 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 28 July 2024
+Last updated on: 11 August 2024
 <!-- END: LAST_UPDATED_AT -->
