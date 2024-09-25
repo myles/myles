@@ -23,23 +23,23 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [mylesbraithwaite.com](https://mylesbraithwaite.com/) Posts
 <!-- START: BLOG_POSTS -->
--   📝 [Arc App's JSON Export to SQLite](https://mylesbraithwaite.com/arc-apps-json-export-to-sqlite) — 9 Mar 2024, 9:19 PM
--   📝 [😢 My Stupid Weather Twitter Profile Bot Got Suspended](https://mylesbraithwaite.com/my-stupid-weather-twitter-profile-bot-got-suspended) — 15 Apr 2023, 1:28 AM
--   📝 [Exploring Toronto's Restaurant Inspection Data with DineSafe](https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe) — 16 Mar 2023, 10:29 PM
+-   [📝 Arc App's JSON Export to SQLite](https://mylesbraithwaite.com/arc-apps-json-export-to-sqlite) — 9 Mar 2024, 9:19 PM
+-   [📝 😢 My Stupid Weather Twitter Profile Bot Got Suspended](https://mylesbraithwaite.com/my-stupid-weather-twitter-profile-bot-got-suspended) — 15 Apr 2023, 1:28 AM
+-   [📝 Exploring Toronto's Restaurant Inspection Data with DineSafe](https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe) — 16 Mar 2023, 10:29 PM
 <!-- END: BLOG_POSTS -->
 
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
--   [I wrote a small library for formatting dates in Python using Moment.js like formatting: gist.github.com/myles/a17… Useful if you want to integrate Python and Obsidian’s date and time formatting.](https://myles.social/2024/09/18/i-wrote-a.html) — 18 Sep 2024, 12:15 PM
--   📷 [Some photos I took yesterday near Ontario Place.](https://myles.social/2024/09/15/some-photos-i.html) — 15 Sep 2024, 12:24 PM
--   📷 [Objects found in the park.](https://myles.social/2024/08/10/objects-found-in.html) — 10 Aug 2024, 5:40 PM
--   📷 [](https://myles.social/2024/07/28/115115.html) — 28 Jul 2024, 11:51 AM
+-   [I wrote a small library for formatting dates in Python using Moment.js like formatting: gist.github.com/myles/a17…. Useful if you want to integrate Python and Obsidian’s date and time formatting.](https://myles.social/2024/09/18/i-wrote-a.html) — 18 Sep 2024, 12:15 PM
+-   [📷 Some photos I took yesterday near Ontario Place.](https://myles.social/2024/09/15/some-photos-i.html) — 15 Sep 2024, 12:24 PM
+-   [📷 Objects found in the park.](https://myles.social/2024/08/10/objects-found-in.html) — 10 Aug 2024, 5:40 PM
+-   [📷](https://myles.social/2024/07/28/115115.html) — 28 Jul 2024, 11:51 AM
 -   [I mapped out Ledbury Park on OpenStreetMaps.](https://myles.social/2024/07/11/i-setup-ledbury.html) — 11 Jul 2024, 8:56 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 18 September 2024
+Last updated on: 25 September 2024
 <!-- END: LAST_UPDATED_AT -->
