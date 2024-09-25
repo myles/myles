@@ -26,7 +26,7 @@ def test_transform_blog_post(post_link, expected_url):
     result = service.transform_blog_post(post)
     assert result == {
         "url": expected_url,
-        "emoji": "📝 ",
+        "emoji": "📝",
         "content": post["title"],
         "published": "1 Jan 2023, 1:01 AM",
     }
@@ -45,7 +45,7 @@ def test_transform_blog_post(post_link, expected_url):
 @pytest.mark.parametrize(
     "post_tags, expected_emoji",
     (
-        (["Photography"], "📷 "),
+        (["Photography"], "📷"),
         ([], ""),
     ),
 )
@@ -67,6 +67,40 @@ def test_transform_microblog_post(
         "content": expected_content,
         "published": expected_published,
     }
+
+
+@pytest.mark.parametrize(
+    "post, expected_result",
+    (
+        (
+            {
+                "url": "https://example.com/blog-post/",
+                "emoji": "📝",
+                "content": "I Am A Blog Post Title",
+                "published": "1 Jan 2023, 1:01 AM",
+            },
+            (
+                "-   [📝 I Am A Blog Post Title](https://example.com/blog-post/)"
+                " — 1 Jan 2023, 1:01 AM"
+            ),
+        ),
+        (
+            {
+                "url": "https://example.com/photograph-without-title/",
+                "emoji": "📸",
+                "content": "",
+                "published": "1 Jan 2023, 1:01 AM",
+            },
+            (
+                "-   [📸](https://example.com/photograph-without-title/)"
+                " — 1 Jan 2023, 1:01 AM"
+            ),
+        ),
+    ),
+)
+def test_format_post(post, expected_result):
+    result = service.format_post(post)
+    assert result == expected_result
 
 
 @pytest.mark.parametrize(

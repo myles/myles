@@ -41,8 +41,8 @@ def transform_blog_post(post: feedparser.FeedParserDict) -> PostDict:
 
     return {
         "url": str(link.geturl()),
-        "emoji": "📝 ",
-        "content": post.title,
+        "emoji": "📝",
+        "content": post.title.strip(),
         "published": published,
     }
 
@@ -64,11 +64,11 @@ def transform_microblog_post(post: Dict[str, Any]) -> PostDict:
 
     content = ""
     if first_paragraph_element := query("p:first"):
-        content = first_paragraph_element.text()
+        content = first_paragraph_element.text().strip()
 
     emoji = ""
     if "Photography" in post.get("tags", []):
-        emoji = "📷 "
+        emoji = "📷"
 
     published = datetime.datetime.fromisoformat(post["date_published"]).strftime(
         "%-d %b %Y, %-I:%M %p"
@@ -86,8 +86,11 @@ def format_post(post: PostDict) -> str:
     """
     Format a PostDict into a string.
     """
+    space_after_emoji = " " if post["emoji"] and post["content"] else ""
+
     return (
-        f'-   {post["emoji"]}[{post["content"]}]({post["url"]}) — {post["published"]}'
+        f'-   [{post["emoji"]}{space_after_emoji}{post["content"]}]({post["url"]})'
+        f' — {post["published"]}'
     )
 
 
