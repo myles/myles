@@ -31,15 +31,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 Hanlan’s Island](https://myles.social/2024/10/21/hanlans-island.html) — 21 Oct 2024, 10:44 PM
 -   [📷 Kirby in Graffiti Alley.](https://myles.social/2024/09/29/kirby-in-graffiti.html) — 29 Sep 2024, 2:22 PM
 -   [I wrote a small library for formatting dates in Python using Moment.js like formatting: gist.github.com/myles/a17…. Useful if you want to integrate Python and Obsidian’s date and time formatting.](https://myles.social/2024/09/18/i-wrote-a.html) — 18 Sep 2024, 12:15 PM
 -   [📷 Some photos I took yesterday near Ontario Place.](https://myles.social/2024/09/15/some-photos-i.html) — 15 Sep 2024, 12:24 PM
 -   [📷 Objects found in the park.](https://myles.social/2024/08/10/objects-found-in.html) — 10 Aug 2024, 5:40 PM
--   [📷](https://myles.social/2024/07/28/115115.html) — 28 Jul 2024, 11:51 AM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 29 September 2024
+Last updated on: 22 October 2024
 <!-- END: LAST_UPDATED_AT -->
