@@ -23,7 +23,7 @@ jobs:
       - id: setup-poetry
         name: "Setup Poetry 🧱"
         run: |
-          curl -sSL https://install.python-poetry.org | python3 -
+          curl -sSL https://install.python-poetry.org | python3 - --version 1.8.5
 
       - id: get-cache-poetry-directory
         name: "Get poetry's cache directory 🔎"
