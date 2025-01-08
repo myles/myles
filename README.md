@@ -31,15 +31,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 “The Lone Witch”](https://myles.social/2025/01/07/the-lone-witch.html) — 7 Jan 2025, 4:08 PM
 -   [📷 Walking through Cricklewood Park.](https://myles.social/2024/12/22/walking-through-cricklewood-park.html) — 22 Dec 2024, 5:58 PM
 -   [📷 Hanlan’s Point](https://myles.social/2024/12/06/hanlans-point.html) — 6 Dec 2024, 10:42 PM
 -   [📷 Toronto skyline as seen from Trillium Park.](https://myles.social/2024/11/09/toronto-skyline-as.html) — 9 Nov 2024, 12:51 PM
 -   [📷 Hanlan’s Island](https://myles.social/2024/10/21/hanlans-island.html) — 21 Oct 2024, 9:44 PM
--   [📷 Kirby in Graffiti Alley.](https://myles.social/2024/09/29/kirby-in-graffiti.html) — 29 Sep 2024, 1:22 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 23 December 2024
+Last updated on: 8 January 2025
 <!-- END: LAST_UPDATED_AT -->
