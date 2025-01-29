@@ -23,7 +23,9 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [mylesbraithwaite.com](https://mylesbraithwaite.com/) Posts
 <!-- START: BLOG_POSTS -->
-
+-   [📝 Arc App's JSON Export to SQLite](https://mylesbraithwaite.com/arc-apps-json-export-to-sqlite) — 9 Mar 2024, 9:19 PM
+-   [📝 😢 My Stupid Weather Twitter Profile Bot Got Suspended](https://mylesbraithwaite.com/my-stupid-weather-twitter-profile-bot-got-suspended) — 15 Apr 2023, 1:28 AM
+-   [📝 Exploring Toronto's Restaurant Inspection Data with DineSafe](https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe) — 16 Mar 2023, 10:29 PM
 <!-- END: BLOG_POSTS -->
 
 
