@@ -31,11 +31,11 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 Finally some blue sky.](https://myles.social/2025/01/29/finally-some-blue-sky.html) — 29 Jan 2025, 11:46 AM
 -   [📷 I wish I had this level of confidence.](https://myles.social/2025/01/27/i-wish-i-had-this.html) — 27 Jan 2025, 1:20 PM
 -   [📷 Lonely tree at Woodbine Beach](https://myles.social/2025/01/26/lonely-tree-at-woodbine-beach.html) — 26 Jan 2025, 5:41 PM
 -   [📷 Someone has set up a mirror ball in Trinity Bellwoods.](https://myles.social/2025/01/24/someone-has-set-up-a.html) — 24 Jan 2025, 10:19 PM
 -   [📷 I went to Slow Night’s Vision Board Collage event tonight, it was a lot of fun.](https://myles.social/2025/01/24/i-went-to-slow-nights.html) — 24 Jan 2025, 10:11 PM
--   [“Living your life to impress other men by hating women is one of the most embarrassing things I can imagine. Looking up to any of these men for how to live your life is even sadder.”](https://myles.social/2025/01/21/living-your-life-to-impress.html) — 21 Jan 2025, 6:40 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
