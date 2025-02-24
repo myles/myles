@@ -21,14 +21,6 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 -   ⚡ Fun fact: ...
 -->
 
-#### [mylesbraithwaite.com](https://mylesbraithwaite.com/) Posts
-<!-- START: BLOG_POSTS -->
--   [📝 Arc App's JSON Export to SQLite](https://mylesbraithwaite.com/arc-apps-json-export-to-sqlite) — 9 Mar 2024, 9:19 PM
--   [📝 😢 My Stupid Weather Twitter Profile Bot Got Suspended](https://mylesbraithwaite.com/my-stupid-weather-twitter-profile-bot-got-suspended) — 15 Apr 2023, 1:28 AM
--   [📝 Exploring Toronto's Restaurant Inspection Data with DineSafe](https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe) — 16 Mar 2023, 10:29 PM
-<!-- END: BLOG_POSTS -->
-
-
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
 -   [It was a Quince, not a lemon.](https://myles.social/2025/02/24/it-was-a-quince-not.html) — 24 Feb 2025, 10:13 AM
@@ -37,6 +29,13 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 -   [📷 It was a very snowy walk into work this morning.](https://myles.social/2025/02/13/it-was-a-very-snowy.html) — 13 Feb 2025, 1:02 PM
 -   [Japanese Rural Life Adventure is such a cozy game.](https://myles.social/2025/02/08/japanese-rural-life-adventure-is.html) — 8 Feb 2025, 1:36 PM
 <!-- END: MICROBLOG_POSTS -->
+
+#### [mylesbraithwaite.com](https://mylesbraithwaite.com/) Posts
+<!-- START: BLOG_POSTS -->
+-   [📝 Arc App's JSON Export to SQLite](https://mylesbraithwaite.com/arc-apps-json-export-to-sqlite) — 9 Mar 2024, 9:19 PM
+-   [📝 😢 My Stupid Weather Twitter Profile Bot Got Suspended](https://mylesbraithwaite.com/my-stupid-weather-twitter-profile-bot-got-suspended) — 15 Apr 2023, 1:28 AM
+-   [📝 Exploring Toronto's Restaurant Inspection Data with DineSafe](https://mylesbraithwaite.com/exploring-torontos-restaurant-inspection-data-with-dinesafe) — 16 Mar 2023, 10:29 PM
+<!-- END: BLOG_POSTS -->
 
 ---
 
