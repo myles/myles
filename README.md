@@ -31,15 +31,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 The iPhone camera’s night mode and 0.5x zoom looks pretty scary.](https://myles.social/2025/02/23/the-iphone-cameras-night-mode.html) — 23 Feb 2025, 9:18 PM
 -   [📷 Skiing in Banff](https://myles.social/2025/02/22/skiing-in-banff.html) — 22 Feb 2025, 2:23 PM
 -   [📷 It was a very snowy walk into work this morning.](https://myles.social/2025/02/13/it-was-a-very-snowy.html) — 13 Feb 2025, 1:02 PM
 -   [Japanese Rural Life Adventure is such a cozy game.](https://myles.social/2025/02/08/japanese-rural-life-adventure-is.html) — 8 Feb 2025, 1:36 PM
 -   [📷 Finally some blue sky.](https://myles.social/2025/01/29/finally-some-blue-sky.html) — 29 Jan 2025, 11:46 AM
--   [I wish I had this level of confidence.](https://myles.social/2025/01/27/i-wish-i-had-this.html) — 27 Jan 2025, 1:20 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 22 February 2025
+Last updated on: 24 February 2025
 <!-- END: LAST_UPDATED_AT -->
