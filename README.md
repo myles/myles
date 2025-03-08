@@ -23,11 +23,11 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 Some doodles from last night’s art hang.](https://myles.social/2025/03/08/some-doodles-from-last-nights.html) — 8 Mar 2025, 12:32 PM
 -   [📷 I absolutely adore the glitch these lights create.](https://myles.social/2025/03/01/i-absolutely-adore-the-glitch.html) — 1 Mar 2025, 9:05 PM
 -   [📚 Finished reading It’s Lonely at the Centre of the Earth by Zoe Thorogood this afternoon. It was so good.](https://myles.social/2025/02/25/finished-reading-its-lonely-at.html) — 25 Feb 2025, 5:28 PM
 -   [It was a Quince, not a lemon.](https://myles.social/2025/02/24/it-was-a-quince-not.html) — 24 Feb 2025, 10:13 AM
 -   [📷 The iPhone camera’s night mode and 0.5x zoom looks pretty scary.](https://myles.social/2025/02/23/the-iphone-cameras-night-mode.html) — 23 Feb 2025, 9:18 PM
--   [📷 Skiing in Banff](https://myles.social/2025/02/22/skiing-in-banff.html) — 22 Feb 2025, 2:23 PM
 <!-- END: MICROBLOG_POSTS -->
 
 #### [mylesbraithwaite.com](https://mylesbraithwaite.com/) Posts
@@ -40,5 +40,5 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 2 March 2025
+Last updated on: 8 March 2025
 <!-- END: LAST_UPDATED_AT -->
