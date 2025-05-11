@@ -23,15 +23,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 Blue sky.](https://myles.social/2025/05/07/blue-sky.html) — 7 May 2025, 1:00 PM
 -   [📷 I love these little spring flowers.](https://myles.social/2025/05/07/i-love-these-little-spring.html) — 7 May 2025, 11:23 AM
 -   [Still thinking about this passage from Ballerina by Patrick Modiano.](https://myles.social/2025/05/05/still-thinking-about-this-passage.html) — 5 May 2025, 1:41 PM
 -   [📷 The city hall had a beautiful sunset tonight.](https://myles.social/2025/05/04/the-city-hall-had-a.html) — 4 May 2025, 11:21 PM
 -   [3D scan of a Cherry Blossom tree in Trinity Bellwoods Park.](https://myles.social/2025/05/02/d-scan-of-a-cherry.html) — 2 May 2025, 12:50 PM
--   [Finished reading: Ballerina by Patrick Modiano 📚](https://myles.social/2025/04/30/finished-reading-ballerina-by-patrick.html) — 30 Apr 2025, 5:01 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 7 May 2025
+Last updated on: 11 May 2025
 <!-- END: LAST_UPDATED_AT -->
