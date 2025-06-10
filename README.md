@@ -23,15 +23,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📚 Finished reading: Final Cut by Charles Burns.](https://myles.social/2025/06/10/finished-reading-final-cut-by.html) — 10 Jun 2025, 4:04 PM
 -   [📷 Day three of the Micro.blog photo challenge is shadow, and I thought I’d share a photo of the bridge near Fort York. In the spring and summer, spiders like to build their webs under the lights, casting the coolest shadows.](https://myles.social/2025/06/03/day-three-of-the-microblog.html) — 3 Jun 2025, 10:37 PM
 -   [📷 There are two thermal cameras on The Bentway near Bathurst.](https://myles.social/2025/06/03/there-are-two-thermal-cameras.html) — 3 Jun 2025, 10:11 PM
 -   [📷 Day two of the Micro.blog photo challenge, the prompt was curve.](https://myles.social/2025/06/02/day-two-of-the-microblog.html) — 2 Jun 2025, 9:35 PM
 -   [📷 On the first day of the Micro.blog photo challenge, I took a photo of a tree on the shore of Lake Ontario.](https://myles.social/2025/06/01/on-the-first-day-of.html) — 1 Jun 2025, 10:38 PM
--   [📷 I saw a cool-looking structure today made of scaffolding and tarps near Fort York.](https://myles.social/2025/05/30/i-saw-a-coollooking-structure.html) — 30 May 2025, 5:44 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 4 June 2025
+Last updated on: 10 June 2025
 <!-- END: LAST_UPDATED_AT -->
