@@ -23,15 +23,15 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 #### [myles.social](https://myles.social/) Posts
 <!-- START: MICROBLOG_POSTS -->
+-   [📷 Tomatoes from the garden.](https://myles.social/2025/08/23/tomatoes-from-the-garden.html) — 23 Aug 2025, 6:23 PM
 -   [📷 Lego sculpture on the corner of Edwin Ave and Dupont St.](https://myles.social/2025/08/11/lego-sculpture-on-the-corner.html) — 11 Aug 2025, 3:55 PM
 -   [Finished reading Perfection by Vincenzo Latronico 📚](https://myles.social/2025/07/09/finished-reading-perfection-by-vincenzo.html) — 9 Jul 2025, 5:18 PM
 -   [📷](https://myles.social/2025/07/09/095514.html) — 9 Jul 2025, 9:55 AM
 -   [📚 Just re-read Land of Mirrors by Maria Medem, such a stunning and dreamlike graphic novel.](https://myles.social/2025/06/29/just-reread-land-of-mirrors.html) — 29 Jun 2025, 1:20 PM
--   [This documentary Death of a Fantastic Machine explores how photography has shaped our lives, from early photographs to AI-generated images.](https://myles.social/2025/06/24/death-of-a-fantastic-machine.html) — 24 Jun 2025, 8:56 PM
 <!-- END: MICROBLOG_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 11 August 2025
+Last updated on: 24 August 2025
 <!-- END: LAST_UPDATED_AT -->
