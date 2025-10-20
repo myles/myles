@@ -17,24 +17,14 @@ def cli(force: bool = False):
 
     org_readme_content = readme_content
 
-    blog_posts = []
-    remote_blog_posts = service.get_blog_posts()
-    for post in remote_blog_posts[:5]:
-        post = service.transform_blog_post(post)
-        blog_posts.append(service.format_post(post))
+    garden_posts = []
+    remote_article_posts = service.get_garden_posts()
+    for post in remote_article_posts[:5]:
+        post = service.transform_garden_post(post)
+        garden_posts.append(service.format_post(post))
 
     readme_content = service.replace_chunk(
-        readme_content, marker="BLOG_POSTS", chunk="\n".join(blog_posts)
-    )
-
-    microblog_posts = []
-    remote_microblog_posts = service.get_microblog_posts()
-    for post in remote_microblog_posts[:5]:
-        post = service.transform_microblog_post(post)
-        microblog_posts.append(service.format_post(post))
-
-    readme_content = service.replace_chunk(
-        readme_content, marker="MICROBLOG_POSTS", chunk="\n".join(microblog_posts)
+        readme_content, marker="GARDEN_POSTS", chunk="\n".join(garden_posts)
     )
 
     if org_readme_content == readme_content and force is False:

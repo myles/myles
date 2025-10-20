@@ -21,17 +21,18 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 -   ⚡ Fun fact: ...
 -->
 
-#### [myles.social](https://myles.social/) Posts
-<!-- START: MICROBLOG_POSTS -->
--   [📷 Hannah Einbinder’s personal life section on Wikipedia is the best.](https://myles.social/2025/09/14/hannah-einbinders-personal-life-section.html) — 14 Sep 2025, 8:46 PM
--   [📷 Tomatoes from the garden.](https://myles.social/2025/08/23/tomatoes-from-the-garden.html) — 23 Aug 2025, 6:23 PM
--   [📷 Lego sculpture on the corner of Edwin Ave and Dupont St.](https://myles.social/2025/08/11/lego-sculpture-on-the-corner.html) — 11 Aug 2025, 3:55 PM
--   [Finished reading Perfection by Vincenzo Latronico 📚](https://myles.social/2025/07/09/finished-reading-perfection-by-vincenzo.html) — 9 Jul 2025, 5:18 PM
--   [📷](https://myles.social/2025/07/09/095514.html) — 9 Jul 2025, 9:55 AM
-<!-- END: MICROBLOG_POSTS -->
+#### [myles.garden](https://myles.garden/) Posts
+
+<!-- START: GARDEN_POSTS -->
+-   [📝 The Society of Brevity is for those who believe most sentences can end sooner. We honor concision, condemn excess, and keep introductions short.](https://myles.garden/2025/10/10/society-of-brevity) — 10 Oct 2025, 10:00 PM
+-   [📝 Finally finished Hollow Knight, now on to Silksong.](https://myles.garden/2025/09/25/hollow-knight) — 26 Sep 2025, 3:27 AM
+-   [📝 I don’t appreciate Duolingo’s pro-horse agenda.](https://myles.garden/2025/08/25/duolingo-pro-horse-agenda) — 25 Aug 2025, 2:12 PM
+-   [📝 I spent the last 30 minutes trying to figure out why my tests weren’t failing. It turned out it was because I forgot to prepend test_ to the function 🙃.](https://myles.garden/2020/02/21/failing-tests) — 21 Feb 2020, 12:00 AM
+-   [📝 Thinknum, a dataset service for revealing strategic movements within companies, made their pitch deck a comic book.](https://myles.garden/2019/08/10/thinknum) — 10 Aug 2019, 4:00 AM
+<!-- END: GARDEN_POSTS -->
 
 ---
 
 <!-- START: LAST_UPDATED_AT -->
-Last updated on: 15 September 2025
+Last updated on: 20 October 2025
 <!-- END: LAST_UPDATED_AT -->

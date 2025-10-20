@@ -16,49 +16,18 @@ class PostDict(TypedDict):
     published: str
 
 
-def get_blog_posts() -> List[feedparser.FeedParserDict]:
+def get_garden_posts() -> List[Dict[str, Any]]:
     """
-    Get my blog posts.
+    Get myles' garden posts.
     """
-    feed = feedparser.parse("https://mylesbraithwaite.com/feed/")
-    return feed.entries
-
-
-def transform_blog_post(post: feedparser.FeedParserDict) -> PostDict:
-    """
-    Format my blog posts.
-    """
-    link = urlparse(post.link)
-
-    link_params = parse_qs(link.query)
-    link_params.pop("pk_campaign", None)  # type: ignore
-
-    link = link._replace(query=urlencode(link_params))
-
-    published = datetime.datetime(*post.published_parsed[:6]).strftime(
-        "%-d %b %Y, %-I:%M %p"
-    )
-
-    return {
-        "url": str(link.geturl()),
-        "emoji": "📝",
-        "content": post.title.strip(),
-        "published": published,
-    }
-
-
-def get_microblog_posts() -> List[Dict[str, Any]]:
-    """
-    Get my microblog posts.
-    """
-    response = requests.get("https://myles.social/feed.json", timeout=(5, 10))
+    response = requests.get("https://myles.garden/feed.json", timeout=(5, 10))
     response.raise_for_status()
     return response.json()["items"]
 
 
-def transform_microblog_post(post: Dict[str, Any]) -> PostDict:
+def transform_garden_post(post: Dict[str, Any]) -> PostDict:
     """
-    Format my microblog posts.
+    Format myles' garden note post.
     """
     query = PyQuery(post["content_html"])
 
@@ -66,17 +35,13 @@ def transform_microblog_post(post: Dict[str, Any]) -> PostDict:
     if first_paragraph_element := query("p:first"):
         content = first_paragraph_element.text().strip()
 
-    emoji = ""
-    if "Photography" in post.get("tags", []):
-        emoji = "📷"
-
     published = datetime.datetime.fromisoformat(post["date_published"]).strftime(
         "%-d %b %Y, %-I:%M %p"
     )
 
     return {
         "url": post["url"],
-        "emoji": emoji,
+        "emoji": "📝",
         "content": content,
         "published": published,
     }
