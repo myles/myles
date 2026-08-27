@@ -22,7 +22,7 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 
 - 😆 My preferred gender pronouns are **[he/him/his](https://www.mypronouns.org/he-him)**
 - 🕒 I am in the **[eastern timezone](https://time.is/Toronto)**
-- 📫 How to reach me at **[me@mylesbraithwaite.com](mailto:me@mylesbraithwaite.com)**
+- 📫 How to reach me at **[myles@myles.garden](mailto:myles@myles.garden)**
 
 <!--
 -   🤔 I’m looking for help with ...
