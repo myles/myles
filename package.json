@@ -1,0 +1,50 @@
+{
+  "name": "@mylesb/myles-readme",
+  "version": "0.0.0-development",
+  "description": "A tool to build my GitHub README file.",
+  "homepage": "https://github.com/myles/myles#readme",
+  "bugs": {
+    "url": "https://github.com/myles/myles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myles/myles.git"
+  },
+  "license": "MIT",
+  "author": "Myles Braithwaite <myles@myles.garden> (https://myles.garden)",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "build-readme": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "npm run clean && tsc",
+    "build-readme": "node dist/cli.js",
+    "clean": "node -e \"fs.rmSync('dist', { recursive: true, force: true })\"",
+    "lint": "oxlint --type-aware",
+    "lint:fix": "oxlint --type-aware --fix",
+    "prettier": "prettier . -c",
+    "prettier:write": "prettier . --write",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit -p tsconfig.test.json"
+  },
+  "prettier": "@mylesb/prettier-config",
+  "dependencies": {
+    "@myles-garden/sdk": "github:myles/myles-garden-sdk"
+  },
+  "devDependencies": {
+    "@mylesb/prettier-config": "^1.1.0",
+    "@types/node": "^26.3.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "oxlint": "^1.80.0",
+    "oxlint-tsgolint": "^7.0.2001",
+    "prettier": "^3.9.6",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.11"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
