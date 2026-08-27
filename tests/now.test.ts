@@ -55,11 +55,11 @@ describe("buildNowSection", () => {
     );
   });
 
-  it("names the polish, not the manicure post", () => {
+  it("names the polish and links to the manicure post", () => {
     const now = makeNow({ nailPolish: makeNailPolish() });
 
     expect(buildNowSection(now)).toBe(
-      "- 💅 I'm currently wearing **[Spread the Cherry](https://www.opi.com/products/nail-lacquer-spread-the-cherry)**",
+      "- 💅 I'm currently wearing **[Spread the Cherry](https://myles.garden/2026/08/11/manicure)**",
     );
   });
 
@@ -81,12 +81,12 @@ describe("buildNowSection", () => {
       ],
     });
 
-    expect(buildNowSection(makeNow({ nailPolish: polish }))).toContain(
-      "**[One](https://example.com/one)** and **[Two](https://example.com/two)**",
+    expect(buildNowSection(makeNow({ nailPolish: polish }))).toBe(
+      "- 💅 I'm currently wearing **[One and Two](https://myles.garden/2026/08/11/manicure)**",
     );
   });
 
-  it("falls back to the manicure post when no bottle is listed", () => {
+  it("falls back to the manicure's name when no bottle is listed", () => {
     const polish = makeNailPolish({ polishes: [] });
 
     expect(buildNowSection(makeNow({ nailPolish: polish }))).toBe(

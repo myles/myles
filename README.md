@@ -14,7 +14,7 @@ I’m a Python developer living in Toronto. Outside of work I’m usually taking
 - 📚 I'm currently reading **[Sunburn](https://myles.garden/bookshelf/books/9780857308412)** by Chloe Michelle Howarth
 - 📚 I'm currently reading **[Witch Hat Atelier, Volume 1](https://myles.garden/bookshelf/books/9781632367709)** by Kamome Shirahama and Stephen Kohler
 - 🎧 I'm currently listening to **[Real Life](https://myles.garden/2026/08/08/real-life)** by ear
-- 💅 I'm currently wearing **[Spread the Cherry](https://www.opi.com/products/nail-lacquer-spread-the-cherry)**
+- 💅 I'm currently wearing **[Spread the Cherry](https://myles.garden/2026/08/11/manicure)**
 
 <!-- END: NOW -->
 

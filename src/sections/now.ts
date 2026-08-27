@@ -25,17 +25,18 @@ function formatJam(jam: NowJam): string {
 
 /**
  * A manicure is usually one bottle across all ten nails, but nothing stops it
- * being several, so every bottle in the snapshot is named. The manicure post
- * itself stands in when a snapshot somehow lists none.
+ * being several, so every bottle in the snapshot is named.
+ *
+ * The whole label links to the manicure post rather than to the bottles: the
+ * post is the thing worth reading, and several bottles would otherwise
+ * scatter the line across as many vendor sites. The polish's own name stands
+ * in when a snapshot somehow lists no bottles.
  */
 function formatNailPolish(polish: NowNailPolish): string {
-  const bottles = polish.polishes.map((bottle) =>
-    boldLink(bottle.label, bottle.url),
-  );
+  const labels = polish.polishes.map((bottle) => bottle.label);
+  const worn = joinWithAnd(labels) || polish.name;
 
-  const worn = joinWithAnd(bottles) || boldLink(polish.name, polish.url);
-
-  return `- ${NAIL_POLISH_EMOJI} I'm currently wearing ${worn}`;
+  return `- ${NAIL_POLISH_EMOJI} I'm currently wearing ${boldLink(worn, polish.url)}`;
 }
 
 /**
